@@ -1,0 +1,95 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.2.7</VERSION>
+ <DEVICE>"ATtiny804"</DEVICE>
+ <WORKING_DIR>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\Debug</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>C:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc</DIR>
+  <DIR>C:\Program Files\Atmel\Studio\7.0\toolchain\avr8\avrassembler\Include</DIR>
+  <DIR></DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>C:/Program Files\Atmel\Studio\7.0\Packs\atmel\ATtiny_DFP\1.3.229\avrasm\inc\tn804def.inc</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\Debug\804_HARDWAREI2C.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>804_HARDWAREI2C.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>804_HARDWAREI2C.map</FILE>
+  <FILE>804_HARDWAREI2C.lss</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <BUFFER><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>38</LINE></BUFFER>
+  <TEMP_BUFFERL><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>39</LINE></TEMP_BUFFERL>
+  <TEMP_BUFFERH><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>40</LINE></TEMP_BUFFERH>
+  <FUEL_BUFFERL><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>41</LINE></FUEL_BUFFERL>
+  <FUEL_BUFFERH><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>42</LINE></FUEL_BUFFERH>
+  <PAD><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>43</LINE></PAD>
+  <reset><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>57</LINE></reset>
+  <TWI0_TWIM_vect_isr><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>53</LINE></TWI0_TWIM_vect_isr>
+  <string><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>988</LINE></string>
+  <rloop><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>75</LINE></rloop>
+  <LCD_INIT><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>425</LINE></LCD_INIT>
+  <WLOOP><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>86</LINE></WLOOP>
+  <TWI_INIT><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>283</LINE></TWI_INIT>
+  <NULL><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>95</LINE></NULL>
+  <DATA_WRITE><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>394</LINE></DATA_WRITE>
+  <delayTx1uS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>964</LINE></delayTx1uS>
+  <delayYx1mS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>911</LINE></delayYx1mS>
+  <COMMAND_WRITE><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>362</LINE></COMMAND_WRITE>
+  <string1><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>990</LINE></string1>
+  <SLOOP1><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>108</LINE></SLOOP1>
+  <NULL1><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>117</LINE></NULL1>
+  <string2><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>992</LINE></string2>
+  <SLOOP2><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>127</LINE></SLOOP2>
+  <NULL2><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>136</LINE></NULL2>
+  <string3><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>994</LINE></string3>
+  <SLOOP3><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>146</LINE></SLOOP3>
+  <NULL3><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>155</LINE></NULL3>
+  <MAIN><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>169</LINE></MAIN>
+  <ADC_INIT><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>507</LINE></ADC_INIT>
+  <ADC_START><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>522</LINE></ADC_START>
+  <ADC_READ_FLAG><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>539</LINE></ADC_READ_FLAG>
+  <CHANGE_MUX_POS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>566</LINE></CHANGE_MUX_POS>
+  <ADC_READ_RESULT><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>545</LINE></ADC_READ_RESULT>
+  <ADC_STOP><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>531</LINE></ADC_STOP>
+  <FUEL_ADC_RANGE_CHECK><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>582</LINE></FUEL_ADC_RANGE_CHECK>
+  <FUEL_CALC><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>633</LINE></FUEL_CALC>
+  <TEMP_CALC><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>650</LINE></TEMP_CALC>
+  <SPEED_LOOP><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>233</LINE></SPEED_LOOP>
+  <SPEED_INIT><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>735</LINE></SPEED_INIT>
+  <CAPT_FLAGS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>752</LINE></CAPT_FLAGS>
+  <SPEED_STOP><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>775</LINE></SPEED_STOP>
+  <SPEED_CALC><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>786</LINE></SPEED_CALC>
+  <SUPRESS_LEAD_ZERO><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>276</LINE></SUPRESS_LEAD_ZERO>
+  <WAIT_WIF><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>336</LINE></WAIT_WIF>
+  <TWI_STOP><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>328</LINE></TWI_STOP>
+  <TWI_WRITE><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>299</LINE></TWI_WRITE>
+  <WAIT_RIF><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>343</LINE></WAIT_RIF>
+  <delayTx1mS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>926</LINE></delayTx1mS>
+  <ADC_DIVIDE_64><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>548</LINE></ADC_DIVIDE_64>
+  <TEMP_STORE><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>561</LINE></TEMP_STORE>
+  <LOAD_AIN3><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>574</LINE></LOAD_AIN3>
+  <SHOW_MAX_READ><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>601</LINE></SHOW_MAX_READ>
+  <SHOW_LOW_READ><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>594</LINE></SHOW_LOW_READ>
+  <ASCII_CONVERT><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>683</LINE></ASCII_CONVERT>
+  <IntToASCII><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>692</LINE></IntToASCII>
+  <DivideBy100><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>711</LINE></DivideBy100>
+  <DivideBy10><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>720</LINE></DivideBy10>
+  <SPEED_READ><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>766</LINE></SPEED_READ>
+  <CAPT_STATUS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>759</LINE></CAPT_STATUS>
+  <division><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>834</LINE></division>
+  <start_op><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>848</LINE></start_op>
+  <no_signal><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>868</LINE></no_signal>
+  <div16u><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>856</LINE></div16u>
+  <d16u_1><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>859</LINE></d16u_1>
+  <d16u_2><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>882</LINE></d16u_2>
+  <d16u_3><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>891</LINE></d16u_3>
+  <delay1mS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>941</LINE></delay1mS>
+  <delay1mS_01><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>947</LINE></delay1mS_01>
+  <delay1uS><FILE>C:\Users\pappan\Documents\Atmel Studio\7.0\804_HARDWAREI2C\804_HARDWAREI2C\main.asm</FILE><LINE>979</LINE></delay1uS>
+ </LABELS>
+</ASSEMBLER_INFO>
